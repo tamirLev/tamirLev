@@ -1,21 +1,20 @@
-## Hi there 👋
-# 👋 Hi, I'm Tamir Leventer
+# 👋 Hi, I'm Tamir Leventer  
 
-🎓 Fourth-year Industrial Engineering and Management student at Ben-Gurion University.  
-📊 Passionate about Data Science, Machine Learning, and Business Intelligence.  
-🚀 Seeking opportunities in Project Management, Data Analysis, and Automation.
+📊 Passionate about **Data Science, Machine Learning, and Business Intelligence**.  
+🚀 Always exploring new ways to turn **data into actionable insights**.  
+🎓 Industrial Engineering & Management graduate with a strong analytical mindset.  
 
-## 🔥 Featured Projects
-### 📌 [Data Analysis Project – Customer Churn Prediction]
-- Built a predictive model using Python & Machine Learning.
-- Improved accuracy by 15% using feature engineering.
-- Data visualization with Tableau.
+🔍 Interested in **Project Management, Data Analysis, and Automation**.  
+📈 Focused on **data-driven decision-making** and solving real-world business problems.  
 
-### 📌 [BI Dashboard – Logistics Optimization]
-- Created an interactive dashboard using Power BI.
-- Reduced reporting time by 30% for the company.
+## 🛠 Skills & Technologies
+🔹 Python | SQL | Power BI | Tableau  
+🔹 Machine Learning & Statistical Analysis  
+🔹 Data Processing & Feature Engineering  
+🔹 Business Intelligence & Dashboard Development  
 
-## 📫 Connect with me
+---
+
+## 📫 Let's Connect!
 📧 Email: tamirleventer3@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tamir-leventer-04290a277/)  
-
